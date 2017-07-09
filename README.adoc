@@ -1,0 +1,7 @@
+Karl's unix/rsync time-machine script.
+Maintains daily and monthly snapshots of a directory tree, hard linked to save
+space when files don't change.
+Inspired by http://www.mikerubel.org/computers/rsync_snapshots/, but using
+more robust coding practices.
+
+See the link:rsync-time-machine.py[script] for full documentation.
